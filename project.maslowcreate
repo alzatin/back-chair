@@ -8,6 +8,36 @@
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "GitHubMolecule",
+            "name": "Code Bend",
+            "x": 0.18159357628165534,
+            "y": 0.46229508196721314,
+            "uniqueID": 906422,
+            "projectID": "223926550",
+            "ioValues": [
+                {
+                    "name": "Interior Bend Radius",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Attached Tab",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Length",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Thickness",
+                    "ioValue": 10
+                },
+                {
+                    "name": "K Factor",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9876466954910439,
@@ -16,5 +46,7 @@
         }
     ],
     "allConnectors": [],
-    "fileTypeVersion": 1
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": "1"
 }
